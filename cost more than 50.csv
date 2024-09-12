@@ -1,0 +1,16 @@
+CustomerID,CustomerName,OrderID,TotalCost,MenuName,CourseName,StarterName
+2,"Jane Smith",2,55.00,"Dinner Delight","Sweet and Sour Chicken","Spring Rolls"
+17,"Emma Adams",17,55.00,"Pizza Party","Pepperoni Pizza","Garlic Knots"
+11,"Ethan Brown",11,60.00,"Pasta Paradise",Lasagna,Bruschetta
+15,"Mia Hall",15,70.00,"Tapas Time","Patatas Bravas",Chorizo
+19,"Sophia Brown",19,75.00,"Grill Gala","Grilled Chicken","Potato Salad"
+1,"John Doe",1,75.50,"Lunch Special","Spaghetti Carbonara","Garlic Bread"
+1,"John Doe",1,75.50,"Weekend Brunch",Pancakes,"Fruit Salad"
+9,"Sophia Wilson",9,80.00,"Mexican Fiesta",Tacos,Nachos
+16,"Noah Scott",16,85.00,"Curry Carnival","Lamb Curry",Pappadum
+6,"David Martin",6,90.00,"Burger Bonanza","Beef Burger",Fries
+12,"Olivia Green",12,90.00,"Sushi Set","Sushi Platter","Miso Soup"
+20,"Oliver Taylor",20,95.00,"Salad Sensation","Caesar Salad","Tomato Soup"
+10,"Chris Evans",10,110.00,"BBQ Feast","BBQ Ribs",Coleslaw
+3,"Emily Clark",3,120.00,"Weekend Brunch",Pancakes,"Fruit Salad"
+13,"Liam Moore",13,125.00,"French Feast","Coq au Vin",Baguette
